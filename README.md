@@ -19,4 +19,4 @@ Currently [@Capgemini](https://www.capgemini.com/) · Porto, Portugal · Open to
 🚧 [Order Processing Platform](link) — microservices + Kafka + React + K8s
 
 ### Connect
-[![LinkedIn](badge)](https://linkedin.com/in/eliezer-laufer)
+💼 [LinkedIn](https://linkedin.com/in/eliezer-laufer)
