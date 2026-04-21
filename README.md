@@ -16,7 +16,7 @@ Currently [@Capgemini](https://www.capgemini.com/) · Porto, Portugal · Open to
 **Data:** PostgreSQL, Oracle, JPA/Hibernate
 
 ### Currently building
-🚧 [Order Processing Platform](link) — microservices + Kafka + React + K8s
+🚧 [Order Processing Platform](https://github.com/eliezerlaufer/order-platform) — microservices + Kafka + React + K8s
 
 ### Connect
 💼 [LinkedIn](https://linkedin.com/in/eliezer-laufer)
