@@ -1,10 +1,10 @@
 ## Hi, I'm Eliézer 👋
 
-Full Stack Engineer | Java · Spring Boot · React · TypeScript | Microservices · K8s · Azure
+Software Engineer | Java · Spring Boot · React · TypeScript | Microservices · K8s · Azure
 
 10+ years building distributed backend systems and enterprise web apps
 
-Currently [@Capgemini](https://www.capgemini.com/) · Porto, Portugal · Open to Remote
+Currently in Brazil - Open to Remote
 
 ### Tech Stack
 **Backend:** Java 21, Spring Boot 3, Microservices, REST APIs, Kafka, Docker, Kubernetes
